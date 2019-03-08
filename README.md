@@ -4,7 +4,7 @@ This project is part of my bachelor’s thesis on developing an interface for a 
 
 # Scope
 
-Due to increasing demands the project soon exceeded the scope of a bachelor’s thesis. Hence the documentation is split in two parts. The first part is covered in "Development of a Serial Peripheral Interface for a Large Area High Resolution Hall Scanner" and covers the following parts:
+Due to increasing demands the project soon exceeded the scope of a bachelor’s thesis. Hence the documentation is split in two parts. The first part is covered in "Development of a Serial Peripheral Interface for a Large Area High Resolution Hall Scanner" ([Link](https://github.com/hitimr/Scanner_Controller/blob/master/Thesis/Bachelorarbeit_Hiti_Mario.pdf)) and covers the following parts:
 
 * Core systems
 * Direct Memory Access (DMA)
