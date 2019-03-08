@@ -1,6 +1,6 @@
 # Scanner Controller
 
-This project is part of my bachelor’s Thesis on developing an interface for a Large Area High Resolution Hall Scanner. The complete system consists of a LAUNCHXL-F28377S MCU that controls the interferometry positioning system of a scanning probe and analyses positioning data in real time. Furthermore, the controller is connected via USB to a custom-built GUI running on a host PC.
+This project is part of my bachelor’s thesis on developing an interface for a Large Area High Resolution Hall Scanner. The complete system consists of a LAUNCHXL-F28377S MCU that controls the interferometry positioning system of a scanning probe and analyses positioning data in real time. Furthermore, the controller is connected via USB to a custom-built GUI running on a host PC.
 
 # Scope
 
